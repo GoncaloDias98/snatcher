@@ -26,7 +26,6 @@ import {Argos} from './argos';
 import {ArgosIE} from './argos-ie';
 import {Aria} from './aria';
 import {Arlt} from './arlt';
-import {Asus} from './asus';
 import {AsusDe} from './asus-de';
 import {Awd} from './awd';
 import {Azerty} from './azerty';
@@ -85,14 +84,10 @@ import {Mediamarkt} from './mediamarkt';
 import {Medimax} from './medimax';
 import {Megekko} from './megekko';
 import {MemoryExpress} from './memoryexpress';
-import {MicroCenter} from './microcenter';
 import {Mindfactory} from './mindfactory';
 import {Msy} from './msy';
 import {Mwave} from './mwave';
 import {NetonnetNO} from './netonnet-no';
-import {Newegg} from './newegg';
-import {NeweggCa} from './newegg-ca';
-import {NeweggSg} from './newegg-sg';
 import {Notebooksbilliger} from './notebooksbilliger';
 import {Novatech} from './novatech';
 import {NovoAtalho} from './novoatalho';
@@ -172,7 +167,6 @@ export const storeList = new Map([
   [ArgosIE.name, Argos],
   [Aria.name, Aria],
   [Arlt.name, Arlt],
-  [Asus.name, Asus],
   [AsusDe.name, AsusDe],
   [Awd.name, Awd],
   [Azerty.name, Azerty],
@@ -232,14 +226,10 @@ export const storeList = new Map([
   [Megekko.name, Megekko],
   [Ldlc.name, Ldlc],
   [MemoryExpress.name, MemoryExpress],
-  [MicroCenter.name, MicroCenter],
   [Mindfactory.name, Mindfactory],
   [Msy.name, Msy],
   [Mwave.name, Mwave],
   [NetonnetNO.name, NetonnetNO],
-  [Newegg.name, Newegg],
-  [NeweggCa.name, NeweggCa],
-  [NeweggSg.name, NeweggSg],
   [Notebooksbilliger.name, Notebooksbilliger],
   [Novatech.name, Novatech],
   [NovoAtalho.name, NovoAtalho],

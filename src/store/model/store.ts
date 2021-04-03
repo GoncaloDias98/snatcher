@@ -44,7 +44,19 @@ export type Series =
   | '3070'
   | '3080'
   | '3090'
-  | 'darkhero'
+  | '1660'
+  | '1660S'
+  | '2060'
+  | '2060S'
+  | '2070'
+  | '2070S'
+  | '2080S'
+  | '2080TI'
+  | 'rx570'
+  | 'rx5700'
+  | 'rx5700xt'
+  | 'rx580'
+  | 'rx590'
   | 'rx6800'
   | 'rx6800xt'
   | 'rx6900xt'
@@ -172,7 +184,8 @@ export type Model =
   | 'xlr8 epic x'
   | 'xlr8 gaming'
   | 'xlr8 revel'
-  | 'xlr8 uprising';
+  | 'xlr8 uprising'
+  | 'darkhero';
 
 export type Link = {
   brand: Brand;
