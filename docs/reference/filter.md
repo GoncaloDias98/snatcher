@@ -3,7 +3,7 @@
 | Environment variable | Description |
 |:---:|---|
 | `MAX_PRICE_SERIES_3060` | Maximum price allowed for a match, applies 3060 series cards (does not apply to these sites: Nvidia, Asus, EVGA) |
-| `MAX_PRICE_SERIES_3060TI` | Maximum price allowed for a match, applies 3060 Ti series cards (does not apply to these sites: Nvidia, Asus, EVGA) |
+| `MAX_PRICE_SERIES_3060ti` | Maximum price allowed for a match, applies 3060 Ti series cards (does not apply to these sites: Nvidia, Asus, EVGA) |
 | `MAX_PRICE_SERIES_3070` | Maximum price allowed for a match, applies 3070 series cards (does not apply to these sites: Nvidia, Asus, EVGA) |
 | `MAX_PRICE_SERIES_3080` | Maximum price allowed for a match, applies 3080 series cards (does not apply to these sites: Nvidia, Asus, EVGA) |
 | `MAX_PRICE_SERIES_3090` | Maximum price allowed for a match, applies 3090 series cards (does not apply to these sites: Nvidia, Asus, EVGA) |
@@ -13,9 +13,9 @@
 | `MAX_PRICE_SERIES_RYZEN5800` | Maximum price allowed for a match, applies AMD 5800 series cpus |
 | `MAX_PRICE_SERIES_RYZEN5900` | Maximum price allowed for a match, applies AMD 5900 series cpus |
 | `MAX_PRICE_SERIES_RYZEN5950` | Maximum price allowed for a match, applies AMD 5950 series cpus |
-| `MAX_PRICE_SERIES_RX6800` | Maximum price allowed for a match, applies AMD RX 6800 |
-| `MAX_PRICE_SERIES_RX6800XT` | Maximum price allowed for a match,applies AMD RX 6800 XT |
-| `MAX_PRICE_SERIES_RX6900XT` | Maximum price allowed for a match, applies AMD RX 6900 XT |
+| `MAX_PRICE_SERIES_rx6800` | Maximum price allowed for a match, applies AMD RX 6800 |
+| `MAX_PRICE_SERIES_rx6800xt` | Maximum price allowed for a match,applies AMD RX 6800 XT |
+| `MAX_PRICE_SERIES_rx6900xt` | Maximum price allowed for a match, applies AMD RX 6900 XT |
 | `MAX_PRICE_SERIES_SONYPS5C` | Maximum price allowed for a match, applies PS5 console |
 | `MAX_PRICE_SERIES_SONYPS5DE` | Maximum price allowed for a match, applies PS5 digital edition |
 | `MAX_PRICE_SERIES_XBOXSS` | Maximum price allowed for a match, applies PS5 digital edition |
