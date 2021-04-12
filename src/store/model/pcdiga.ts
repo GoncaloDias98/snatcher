@@ -216,7 +216,7 @@ export const PCDiga: Store = {
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx5700xt',
+      series: 'RX5700XT',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-msi-radeon-rx-5700-xt-evoke-8g-912-v381-204',
     },
@@ -230,7 +230,7 @@ export const PCDiga: Store = {
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx5700',
+      series: 'RX5700',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-xfx-radeon-rx-5700-8gb-triple-dissipation-gddr6-rx-57xl83ld8',
     },
@@ -293,28 +293,28 @@ export const PCDiga: Store = {
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx5700xt',
+      series: 'RX5700XT',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-asus-tuf-gaming-x3-radeon-rx-5700-xt-8gb-oc-90yv0da0-m0na00',
     },
     {
       brand: 'nvidia',
       model: 'dual',
-      series: '3060ti',
+      series: '3060TI',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-msi-geforce-rtx-3060-ti-ventus-2x-8gb-gddr6-oc-912-v390-009',
     },
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx5700xt',
+      series: 'RX5700XT',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-sapphire-radeon-rx-5700-xt-pulse-8gb-11293-01-20g',
     },
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx5700xt',
+      series: 'RX5700XT',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-xfx-radeon-rx-5700-xt-8gb-triple-dissipation-rx-57xt83ld8',
     },
@@ -328,7 +328,7 @@ export const PCDiga: Store = {
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx5700xt',
+      series: 'RX5700XT',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-gigabyte-radeon-rx-5700-xt-gaming-8gb-oc-gv-r57xtgaming-oc-8gd',
     },
@@ -349,7 +349,7 @@ export const PCDiga: Store = {
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx5700xt',
+      series: 'RX5700XT',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-asus-dual-radeon-rx-5700-evo-8gb-oc-90yv0dc1-m0na00',
     },
@@ -398,7 +398,7 @@ export const PCDiga: Store = {
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx5700xt',
+      series: 'RX5700XT',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-powercolor-radeon-rx-5700-xt-red-dragon-8gb-oc-axrx-5700xt-8gbd6-3dhr-oc',
     },
@@ -433,7 +433,7 @@ export const PCDiga: Store = {
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx5700xt',
+      series: 'RX5700XT',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-sapphire-radeon-rx-5700-xt-nitro-8gb-oc-11293-03-40g',
     },
@@ -482,7 +482,7 @@ export const PCDiga: Store = {
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx5700',
+      series: 'RX5700',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-asus-rog-strix-radeon-rx-5700-8gb-oc-90yv0dd0-m0na00',
     },
@@ -622,7 +622,7 @@ export const PCDiga: Store = {
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx5700xt',
+      series: 'RX5700XT',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-asus-dual-radeon-rx-5700-xt-evo-8gb-oc-90yv0da2-m0na00',
     },
@@ -636,14 +636,14 @@ export const PCDiga: Store = {
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx5700xt',
+      series: 'RX5700XT',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-xfx-radeon-rx-5700-xt-8gb-thicc-iii-ultra-rx-57xt8tbd8',
     },
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx5700xt',
+      series: 'RX5700XT',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-sapphire-radeon-rx-5700-xt-nitro-be-8gb-oc-11293-10-40g',
     },
@@ -678,21 +678,21 @@ export const PCDiga: Store = {
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx5700xt',
+      series: 'RX5700XT',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-asus-rog-strix-radeon-rx-5700-xt-8gb-oc-90yv0d90-m0na00',
     },
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx5700xt',
+      series: 'RX5700XT',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-msi-radeon-rx-5700-xt-gaming-x-8g-912-v381-o32',
     },
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx5700xt',
+      series: 'RX5700XT',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-msi-radeon-rx-5700-xt-mech-oc-8g-recondicionado-912-v381-015',
     },
@@ -720,28 +720,28 @@ export const PCDiga: Store = {
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx6800xt',
+      series: 'RX6800XT',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-msi-radeon-rx-6800-xt-16gb-gddr6-v803-896r',
     },
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx6800xt',
+      series: 'RX6800XT',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-xfx-radeon-rx-6800-xt-16gb-gddr6-rx-68tmatfd8',
     },
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx6800xt',
+      series: 'RX6800XT',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-powercolor-radeon-rx-6800-xt-16gb-gddr6-axrx-6800xt-16gbd6-m2dhc',
     },
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx6800',
+      series: 'RX6800',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-asrock-radeon-rx-6800-16gb-gddr6-90-ga2bzz-00uanf',
     },
@@ -797,7 +797,7 @@ export const PCDiga: Store = {
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx6800',
+      series: 'RX6800',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-sapphire-radeon-rx-6800-16gb-gddr6-21305-01-20g',
     },
@@ -853,7 +853,7 @@ export const PCDiga: Store = {
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx6800',
+      series: 'RX6800',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-powercolor-radeon-rx-6800-red-devil-16gb-oc-limited-edition-axrx-6800-16gbd6-2dhce-oc',
     },
@@ -874,7 +874,7 @@ export const PCDiga: Store = {
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx6800',
+      series: 'RX6800',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-asrock-radeon-rx-6800-phantom-gaming-d-16gb-oc-90-ga2azz-00uanf',
     },{
@@ -923,28 +923,28 @@ export const PCDiga: Store = {
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx6800xt',
+      series: 'RX6800XT',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-powercolor-radeon-rx-6800-xt-red-dragon-16gb-oc-axrx-6800xt-16gbd6-3dhr-oc',
     },
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx6800xt',
+      series: 'RX6800XT',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-sapphire-radeon-rx-6800-xt-16gb-gddr6-21304-01-20g',
     },
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx6800xt',
+      series: 'RX6800XT',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-asrock-radeon-rx-6800-xt-phantom-gaming-d-16gb-oc-90-ga28zz-00uanf',
     },
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx6800xt',
+      series: 'RX6800XT',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-powercolor-radeon-rx-6800-xt-red-devil-16gb-oc-limited-edition-axrx-6800xt-16gbd6-2dhce-oc',
     },
@@ -972,7 +972,7 @@ export const PCDiga: Store = {
     {
       brand: 'nvidia',
       model: 'dual',
-      series: '3060ti',
+      series: '3060TI',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-pny-geforce-rtx-3060-ti-8gb-gddr6-uprising-dual-fan-vcg3060t8dfmpb',
     },
@@ -993,70 +993,70 @@ export const PCDiga: Store = {
     {
       brand: 'nvidia',
       model: 'dual',
-      series: '3060ti',
+      series: '3060TI',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-pny-geforce-rtx-3060-ti-8gb-gddr6-xlr8-revel-epic-x-dual-fan-vcg3060t8dfxppb',
     },
     {
       brand: 'nvidia',
       model: 'dual',
-      series: '3060ti',
+      series: '3060TI',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-msi-geforce-rtx-3060-ti-ventus-2x-ocv1-8gb-gddr6-oc-912-v397-003',
     },
     {
       brand: 'nvidia',
       model: 'dual',
-      series: '3060ti',
+      series: '3060TI',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-asus-rog-strix-geforce-rtx-3060-ti-8gb-gddr6-90yv0g00-m0na00',
     },
     {
       brand: 'nvidia',
       model: 'dual',
-      series: '3060ti',
+      series: '3060TI',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-asus-tuf-gaming-rtx-3060-ti-8gb-gddr6-oc-90yv0g10-m0na00',
     },
     {
       brand: 'nvidia',
       model: 'dual',
-      series: '3060ti',
+      series: '3060TI',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-asus-tuf-gaming-rtx-3060-ti-8gb-gddr6-90yv0g11-m0na00',
     },
     {
       brand: 'nvidia',
       model: 'dual',
-      series: '3060ti',
+      series: '3060TI',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-asus-dual-geforce-rtx-3060-ti-8gb-gddr6-90yv0g13-m0na00',
     },
     {
       brand: 'nvidia',
       model: 'dual',
-      series: '3060ti',
+      series: '3060TI',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-gigabyte-geforce-rtx-3060-ti-eagle-8gb-gddr6-gvn306teo-00-g',
     },
     {
       brand: 'nvidia',
       model: 'dual',
-      series: '3060ti',
+      series: '3060TI',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-gigabyte-geforce-rtx-3060-ti-gaming-oc-pro-8gb-gddr6-gvn306tgop-00-10',
     },
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx6800',
+      series: 'RX6800',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-xfx-radeon-rx-6800-speedster-qick-319-black-gaming-16gb-rx-68xlalbd9',
     },
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx6800',
+      series: 'RX6800',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-xfx-radeon-rx-6800-16gb-gddr6-rx-68lmatfd8',
     },
@@ -1077,77 +1077,77 @@ export const PCDiga: Store = {
     {
       brand: 'nvidia',
       model: 'dual',
-      series: '3060ti',
+      series: '3060TI',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-asus-dual-geforce-rtx-3060-ti-8gb-gddr6-oc-90yv0g12-m0na00',
     },
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx6800',
+      series: 'RX6800',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-asrock-radeon-rx-6800-challenger-pro-16gb-oc-90-ga29zz-00uanf',
     },
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx6800',
+      series: 'RX6800',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-powercolor-radeon-rx-6800-fighter-16gb-oc-axrx-6800-16gbd6-3dh-oc',
     },
     {
       brand: 'nvidia',
       model: 'dual',
-      series: '3060ti',
+      series: '3060TI',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-msi-geforce-rtx-3060-ti-ventus-3x-8gb-gddr6-oc-912-v397-001',
     },
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx6800',
+      series: 'RX6800',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-sapphire-nitro-radeon-rx-6800-16gb-gddr6-oc-11305-01-20g',
     },
     {
       brand: 'nvidia',
       model: 'dual',
-      series: '3060ti',
+      series: '3060TI',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-zotac-gaming-geforce-rtx-3060-ti-8gb-gddr6-twin-edge-oc-zt-a30610h-10m',
     },
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx6800',
+      series: 'RX6800',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-powercolor-radeon-rx-6800-16gb-gddr6-axrx-6800-16gbd6-m2dhc',
     },
     {
       brand: 'nvidia',
       model: 'dual',
-      series: '3060ti',
+      series: '3060TI',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-gigabyte-geforce-rtx-3060-ti-gaming-oc-pro-8gb-gddr6-rev-2-0-gv-n306tgamingoc-pro-8gd-2-0',
     },
     {
       brand: 'nvidia',
       model: 'dual',
-      series: '3060ti',
+      series: '3060TI',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-gigabyte-geforce-rtx-3060-ti-gaming-oc-8gb-gddr6-gvn306tgo-00-10',
     },
     {
       brand: 'nvidia',
       model: 'dual',
-      series: 'rx6800',
+      series: 'RX6800',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-xfx-radeon-rx-6800-speedster-merc-319-black-gaming-16gb-rx-68xlatbd9',
     },
     {
       brand: 'nvidia',
       model: 'dual',
-      series: '3060ti',
+      series: '3060TI',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-zotac-gaming-geforce-rtx-3060-ti-8gb-gddr6-twin-edge-zt-a30610e-10m',
     },
@@ -1161,49 +1161,49 @@ export const PCDiga: Store = {
     {
       brand: 'nvidia',
       model: 'dual',
-      series: '3060ti',
+      series: '3060TI',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-msi-geforce-rtx-3060-ti-gaming-x-8gb-gddr6-912-v397-042',
     },
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx6900xt',
+      series: 'RX6900XT',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-msi-radeon-rx-6900-xt-16gb-gddr6-912-v803-1007',
     },
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx6800',
+      series: 'RX6800',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-sapphire-radeon-rx-6800-pulse-gaming-16gb-oc-11305-02-20g',
     },
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx6900xt',
+      series: 'RX6900XT',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-xfx-radeon-rx-6900-xt-16gb-gddr6-rx-69tmatfd8',
     },
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx6800xt',
+      series: 'RX6800XT',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-powercolor-radeon-rx-6800-xt-red-devil-16gb-oc-axrx-6800xt-16gbd6-3dhe-oc',
     },
     {
       brand: 'nvidia',
       model: 'dual',
-      series: '3060ti',
+      series: '3060TI',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-gigabyte-geforce-rtx-3060-ti-eagle-oc-8gb-gddr6-gvn306teo-00-10',
     },
     {
       brand: 'nvidia',
       model: 'dual',
-      series: '3060ti',
+      series: '3060TI',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-gigabyte-geforce-rtx-3060-ti-aorus-master-8gb-gddr6-gvn306tam-00-10',
     },
@@ -1217,28 +1217,28 @@ export const PCDiga: Store = {
     {
       brand: 'nvidia',
       model: 'dual',
-      series: '3060ti',
+      series: '3060TI',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-asus-rog-strix-geforce-rtx-3060-ti-8gb-gddr6-oc-90yv0g02-m0na00',
     },
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx6800',
+      series: 'RX6800',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-gigabyte-radeon-rx-6800-gaming-16gb-oc-gv-r68gaming-oc-16gd',
     },
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx6800',
+      series: 'RX6800',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-powercolor-radeon-rx-6800-red-devil-16gb-oc-axrx-6800-16gbd6-3dhe-oc',
     },
     {
       brand: 'nvidia',
       model: 'dual',
-      series: '3060ti',
+      series: '3060TI',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-msi-geforce-rtx-3060-ti-gaming-x-trio-8gb-gddr6-912-v390-053',
     },
@@ -1348,7 +1348,7 @@ export const PCDiga: Store = {
     {
       brand: 'nvidia',
       model: 'dual',
-      series: 'rx6900xt',
+      series: 'RX6900XT',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-gigabyte-radeon-rx-6900-xt-16gb-gddr6-gvr69xtb-00-10',
     }
@@ -1356,7 +1356,7 @@ export const PCDiga: Store = {
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx6900xt',
+      series: 'RX6900XT',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-powercolor-radeon-rx-6900-xt-red-devil-16gb-oc-limited-edition-axrx-6900xt-16gbd6-2dhce-oc',
     }
@@ -1404,7 +1404,7 @@ export const PCDiga: Store = {
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx6800xt',
+      series: 'RX6800XT',
       url:
         'https://www.pcdiga.com/catalog/product/view/id/40961/s/placa-grafica-gigabyte-radeon-rx-6800-xt-gaming-16gb-oc-gv-r68xtgaming-oc-16gd/',
     }
@@ -1436,7 +1436,7 @@ export const PCDiga: Store = {
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx6800',
+      series: 'RX6800',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-powercolor-radeon-rx-6800-red-dragon-16gb-oc-axrx-6800-16gbd6-3dhr-oc',
     }
@@ -1484,7 +1484,7 @@ export const PCDiga: Store = {
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx6800',
+      series: 'RX6800',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-msi-radeon-rx-6800-gaming-x-trio-16g-v396-002r',
     }
@@ -1492,7 +1492,7 @@ export const PCDiga: Store = {
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx6800xt',
+      series: 'RX6800XT',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-xfx-radeon-rx-6800-xt-speedster-merc-319-black-gaming-16gb-rx-68xtacbd9',
     }
@@ -1508,7 +1508,7 @@ export const PCDiga: Store = {
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx6800',
+      series: 'RX6800',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-asus-rog-strix-radeon-rx-6800-16gb-gddr6-oc-90yv0fm0-m0na00',
     }
@@ -1516,7 +1516,7 @@ export const PCDiga: Store = {
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx6900xt',
+      series: 'RX6900XT',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-powercolor-radeon-rx-6900-xt-16gb-gddr6-axrx-6900xt-16gbd6-m2dhc',
     }
@@ -1548,7 +1548,7 @@ export const PCDiga: Store = {
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx6800xt',
+      series: 'RX6800XT',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-sapphire-nitro-radeon-rx-6800-xt-16gb-gddr6-oc-11304-02-20g',
     }
@@ -1580,7 +1580,7 @@ export const PCDiga: Store = {
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx6800xt',
+      series: 'RX6800XT',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-xfx-radeon-rx-6800-xt-speedster-merc-319-core-gaming-16gb-gddr6-rx-68xtalfd9',
     }
@@ -1588,7 +1588,7 @@ export const PCDiga: Store = {
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx6800xt',
+      series: 'RX6800XT',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-sapphire-nitro-radeon-rx-6800-xt-se-16gb-gddr6-oc-11304-01-20g',
     }
@@ -1596,7 +1596,7 @@ export const PCDiga: Store = {
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx6800xt',
+      series: 'RX6800XT',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-msi-radeon-rx-6800-xt-gaming-x-trio-16g-v395-001r',
     }
@@ -1620,7 +1620,7 @@ export const PCDiga: Store = {
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx6900xt',
+      series: 'RX6900XT',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-asrock-radeon-rx-6900-xt-16gb-gddr6-90-ga2hzz-00uanf',
     }
@@ -1644,7 +1644,7 @@ export const PCDiga: Store = {
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx6900xt',
+      series: 'RX6900XT',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-gigabyte-radeon-rx-6900-xt-gaming-16gb-gddr6-oc-gv-r69xtgamming-oc-16gd',
     }
@@ -1652,7 +1652,7 @@ export const PCDiga: Store = {
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx6900xt',
+      series: 'RX6900XT',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-powercolor-radeon-rx-6900-xt-red-devil-16gb-oc-axrx-6900xt-16gbd6-3dhe-oc',
     }
@@ -1660,7 +1660,7 @@ export const PCDiga: Store = {
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx6800xt',
+      series: 'RX6800XT',
       url:
         'https://www.pcdiga.com/catalog/product/view/id/40910/s/placa-grafica-asus-radeon-rx-6800-xt-tuf-gaming-16gb-oc-90yv0fl1-m0nm00/category/201/',
     }
@@ -1700,7 +1700,7 @@ export const PCDiga: Store = {
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx6800xt',
+      series: 'RX6800XT',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-asus-radeon-rx-6800-xt-tuf-gaming-16gb-oc-90yv0fl1-m0nm00',
     }
@@ -1708,7 +1708,7 @@ export const PCDiga: Store = {
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx6900xt',
+      series: 'RX6900XT',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-asus-radeon-rx-6900-xt-16gb-gddr6-90yv0gg0-u0na00',
     }
@@ -1716,7 +1716,7 @@ export const PCDiga: Store = {
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx6900xt',
+      series: 'RX6900XT',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-msi-radeon-rx-6900-xt-gaming-x-trio-16g-912-v395-007',
     }
@@ -1724,7 +1724,7 @@ export const PCDiga: Store = {
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx6900xt',
+      series: 'RX6900XT',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-sapphire-nitro-radeon-rx-6900-xt-16gb-gddr6-oc-11308-01-20g',
     }
@@ -1732,7 +1732,7 @@ export const PCDiga: Store = {
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx6900xt',
+      series: 'RX6900XT',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-sapphire-radeon-rx-6900-xt-16gb-gddr6-21308-01-20g',
     }
@@ -1740,7 +1740,7 @@ export const PCDiga: Store = {
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx6900xt',
+      series: 'RX6900XT',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-xfx-radeon-rx-6900-xt-speedster-merc-319-ultra-gaming-16gb-rx-69xtacud9',
     }
@@ -1748,147 +1748,9 @@ export const PCDiga: Store = {
     {
       brand: 'amd',
       model: 'dual',
-      series: 'rx6900xt',
+      series: 'RX6900XT',
       url:
         'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-amd/placa-grafica-asus-tuf-gaming-radeon-rx-6900-xt-16gb-gddr6-oc-90yv0ge0-m0nm00',
-    } ,
-    {
-      brand: 'nvidia',
-      model: 'dual',
-      series: '3090',
-      url:
-        'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-asus-rog-strix-gaming-geforce-rtx-3090-24gb-gddr6x-oc-white-edition-90yv0f96-m0nm00',
-    }
-    ,
-    {
-      brand: 'nvidia',
-      model: 'dual',
-      series: '3090',
-      url:
-        'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-gigabyte-geforce-rtx-3090-aorus-xtreme-24gb-gvn3090ax-00-10',
-    }
-    ,
-    {
-      brand: 'nvidia',
-      model: 'dual',
-      series: '3090',
-      url:
-        'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-gigabyte-geforce-rtx-3090-vision-oc-24gb-gvn3090vo-00-g',
-    }
-    ,
-    {
-      brand: 'nvidia',
-      model: 'dual',
-      series: '3090',
-      url:
-        'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-gigabyte-geforce-rtx-3090-eagle-24gb-gddr6x-oc-edition-gvn3090eo-00-10',
-    }
-    ,
-    {
-      brand: 'nvidia',
-      model: 'dual',
-      series: '3090',
-      url:
-        'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-gigabyte-geforce-rtx-3090-gaming-24gb-gddr6x-oc-edition-gvn3090go-00-10',
-    }
-    ,
-    {
-      brand: 'nvidia',
-      model: 'dual',
-      series: '3090',
-      url:
-        'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-asus-rog-strix-geforce-rtx-3090-24gb-gddr6x-90yv0f90-m0nm00',
-    },
-    {
-      brand: 'nvidia',
-      model: 'dual',
-      series: '3090',
-      url:
-        'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-asus-tuf-gaming-geforce-rtx-3090-24gb-gddr6x-90yv0fd0-m0nm00',
-    },
-    {
-      brand: 'nvidia',
-      model: 'dual',
-      series: '3090',
-      url:
-        'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-gigabyte-geforce-rtx-3090-aorus-master-24gb-gv-n3090aorus-m-24gd',
-    },
-    {
-      brand: 'nvidia',
-      model: 'dual',
-      series: '3090',
-      url:
-        'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-pny-geforce-rtx-3090-24gb-gddr6x-xlr8-gaming-epic-x-rgb-triple-fan-vcg309024tfxppb',
-    },
-    {
-      brand: 'amd',
-      model: 'dual',
-      series: '3090',
-      url:
-        'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-pny-geforce-rtx-3090-uprising-blower-edition-24gb-gddr6x-vcg309024blmpb',
-    },
-    {
-      brand: 'nvidia',
-      model: 'dual',
-      series: '3090',
-      url:
-        'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-msi-geforce-rtx-3090-gaming-x-trio-24g-912-v388-011',
-    },
-    {
-      brand: 'nvidia',
-      model: 'dual',
-      series: '3090',
-      url:
-        'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-pny-geforce-rtx-3090-24gb-gddr6x-xlr8-gaming-epic-x-rgb-triple-fan-vcg309024tfxmpb',
-    },
-    {
-      brand: 'nvidia',
-      model: 'dual',
-      series: '3090',
-      url:
-        'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-msi-geforce-rtx-3090-ventus-3x-24g-oc-912-v388-002',
-    },
-    {
-      brand: 'nvidia',
-      model: 'dual',
-      series: '3090',
-      url:
-        'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-asus-tuf-gaming-geforce-rtx-3090-24gb-gddr6x-oc-edition-90yv0fd1-m0nm00',
-    },
-    {
-      brand: 'nvidia',
-      model: 'dual',
-      series: '3090',
-      url:
-        'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-zotac-gaming-geforce-rtx-3090-24gb-gddr6x-trinity-zt-a30900d-10p',
-    },
-    {
-      brand: 'nvidia',
-      model: 'dual',
-      series: '3090',
-      url:
-        'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-zotac-gaming-geforce-rtx-3090-24gb-gddr6x-trinity-oc-zt-a30900j-10p',
-    },
-    {
-      brand: 'nvidia',
-      model: 'dual',
-      series: '3090',
-      url:
-        'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-msi-geforce-rtx-3090-suprim-x-24g-912-v388-010',
-    },
-    {
-      brand: 'nvidia',
-      model: 'dual',
-      series: '3090',
-      url:
-        'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-asus-rog-strix-geforce-rtx-3090-24gb-gddr6x-oc-edition-90yv0f93-m0nm00',
-    },
-    {
-      brand: 'nvidia',
-      model: 'dual',
-      series: '3090',
-      url:
-        'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-msi-geforce-rtx-3090-gaming-trio-24g-912-v388-020',
     }
     ],
   name: 'pcdiga',

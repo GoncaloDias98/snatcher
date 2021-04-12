@@ -80,9 +80,9 @@ Here's an example:
  	| '3080'
  	| '3090'
 +	| 'new series'
- 	| 'rx6800'
- 	| 'rx6800xt'
- 	| 'rx6900xt'
+ 	| 'RX6800'
+ 	| 'RX6800XT'
+ 	| 'RX6900XT'
 @@ -83,6 +85,7 @@ export type Model =
  	| 'ichill x2'
  	| 'ichill x3'
