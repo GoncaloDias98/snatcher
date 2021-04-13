@@ -24,6 +24,13 @@ export const PCDiga: Store = {
       url:
         'https://www.pcdiga.com/placa-grafica-asus-ekwb-geforce-rtx-3080-10gb-gddr6x-90yv0f60-m0nm00',
     },
+	{
+      brand: 'nvidia',
+      model: 'dual',
+      series: '2060',
+      url:
+        'https://www.pcdiga.com/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-msi-geforce-rtx-2060-ventus-gp-oc-6g-912-v375-623',
+    },
     {
       brand: 'amd',
       model: 'dual',
