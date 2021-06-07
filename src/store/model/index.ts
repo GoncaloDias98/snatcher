@@ -1,10 +1,13 @@
 import {config, defaultStoreData} from '../../config';
 import {PCDiga} from './pcdiga';
+import {PCComponentes} from './pccomponentes';
 import {Store} from './store';
 import {logger} from '../../logger';
 
 export const storeList = new Map([
   [PCDiga.name, PCDiga],
+  [PCComponentes.name, PCComponentes],
+  
 ]);
 
 const brands = new Set();
